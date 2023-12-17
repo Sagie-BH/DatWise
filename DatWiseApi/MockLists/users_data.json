@@ -1,0 +1,26 @@
+[
+  {
+    "ID": 1,
+    "Name": "Alex Carter",
+    "Company": "BrightFuture Tech",
+    "Password": "Pass1",
+    "IsActive": true,
+    "Email": "alex.carter@brightfuturetech.com"
+  },
+  {
+    "ID": 2,
+    "Name": "Sam Johnson",
+    "Company": "Innovate Solutions Inc.",
+    "Password": "Pass2",
+    "IsActive": false,
+    "Email": "sam.johnson@innovatesolutions.com"
+  },
+  {
+    "ID": 3,
+    "Name": "Morgan Lee",
+    "Company": "GreenHorizons Ltd.",
+    "Password": "Pass3",
+    "IsActive": true,
+    "Email": "morgan.lee@greenhorizonsltd.com"
+  }
+]

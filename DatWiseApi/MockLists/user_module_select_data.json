@@ -1,0 +1,44 @@
+[
+  {
+    "UserID": 1,
+    "SelectedModules": [
+      {
+        "ID": 101
+      },
+      {
+        "ID": 103
+      },
+      {
+        "ID": 105
+      }
+    ]
+  },
+  {
+    "UserID": 2,
+    "SelectedModules": [
+      {
+        "ID": 102
+      },
+      {
+        "ID": 103
+      },
+      {
+        "ID": 104
+      }
+    ]
+  },
+  {
+    "UserID": 3,
+    "SelectedModules": [
+      {
+        "ID": 105
+      },
+      {
+        "ID": 104
+      },
+      {
+        "ID": 101
+      }
+    ]
+  }
+]

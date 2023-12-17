@@ -1,0 +1,35 @@
+[
+  {
+    "ModuleID": 1,
+    "ModuleName": "Module1",
+    "Header": "Header1",
+    "Description": "Description1",
+    "IsCustom": false,
+    "Components": [
+      1,
+      2
+    ]
+  },
+  {
+    "ModuleID": 2,
+    "ModuleName": "Module2",
+    "Header": "Header2",
+    "Description": "Description2",
+    "IsCustom": false,
+    "Components": [
+      2,
+      3
+    ]
+  },
+  {
+    "ModuleID": 3,
+    "ModuleName": "Module3",
+    "Header": "Header3",
+    "Description": "Description3",
+    "IsCustom": false,
+    "Components": [
+      1,
+      3
+    ]
+  }
+]

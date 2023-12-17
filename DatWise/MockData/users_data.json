@@ -1,0 +1,20 @@
+[
+  {
+    "UserID": 1,
+    "Username": "User1",
+    "Password": "Pass1",
+    "IsActive": true
+  },
+  {
+    "UserID": 2,
+    "Username": "User2",
+    "Password": "Pass2",
+    "IsActive": false
+  },
+  {
+    "UserID": 3,
+    "Username": "User3",
+    "Password": "Pass3",
+    "IsActive": true
+  }
+]

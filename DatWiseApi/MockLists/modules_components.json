@@ -1,0 +1,67 @@
+[
+  {
+    "ID": 101,
+    "Title": "User Management",
+    "Description": "Manages user accounts and profiles.",
+    "Image": "UserManagement.png",
+    "Components": [
+      { "ID": 1 },
+      { "ID": 7 },
+      { "ID": 2 },
+      { "ID": 5 }
+    ]
+  },
+  {
+    "ID": 102,
+    "Title": "Project Tracking",
+    "Description": "Tracks project progress and tasks.",
+    "Image": "ProjectTracking.png",
+    "Icon": "",
+    "Components": [
+      { "ID": 6 },
+      { "ID": 3 },
+      { "ID": 4 },
+      { "ID": 7 }
+    ]
+  },
+  {
+    "ID": 103,
+    "Title": "Human Resources",
+    "Description": "Handles all HR related functionalities.",
+    "Image": "HumanResources.png",
+    "Icon": "",
+    "Components": [
+      { "ID": 5 },
+      { "ID": 6 },
+      { "ID": 1 },
+      { "ID": 8 }
+    ]
+  },
+  {
+    "ID": 104,
+    "Title": "Supply Management",
+    "Description": "Manages supply chain and inventory.",
+    "Image": "SupplyManagement.png",
+    "Icon": "",
+    "Components": [
+      { "ID": 7 },
+      { "ID": 8 },
+      { "ID": 1 },
+      { "ID": 5 }
+    ]
+  },
+  {
+    "ID": 105,
+    "Title": "Materials Management",
+    "Description": "Oversees the acquisition and management of materials.",
+    "Image": "MaterialsManagement.png",
+    "Icon": "",
+    "Components": [
+      { "ID": 3 },
+      { "ID": 5 },
+      { "ID": 2 },
+      { "ID": 8 },
+      { "ID": 7 }
+    ]
+  }
+]
